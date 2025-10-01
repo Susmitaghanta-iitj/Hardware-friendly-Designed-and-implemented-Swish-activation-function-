@@ -1,0 +1,1 @@
+# Hardware-friendly-Designed-and-implemented-Swish-activation-function-
